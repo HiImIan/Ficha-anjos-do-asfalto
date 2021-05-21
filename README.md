@@ -3,7 +3,7 @@ Meu projeto de tcc do curso técnico
 
 Esse é um projeto que usa html, css, php e o bando de dados mysql
 
-seu propósito é armazenar fichas de atendimento pré-hospitalar para um grupo de voluntários, suas funções incluem incluir, consultar, alterar e excluir fichas de atendimento e o mesmo vale para cadastro de voluntários, é bem simples (e um pounco instável) mas funcional, para um primeiro projeto, me sinto orgulhoso.
+seu propósito é armazenar fichas de atendimento pré-hospitalar para um grupo de voluntários, suas funções incluem incluir, consultar, alterar e excluir fichas de atendimento e o mesmo vale para cadastro de voluntários, o login valida cadastros e as sessões são interrompidas quando se sai do login ou pagina em que estava, é bem simples (e um pouco instável) mas funcional, para um primeiro projeto, me sinto orgulhoso.
 para utilizar é necessário utilizar um bando de dados local, em meu caso recomendo o uso do Xampp (https://www.apachefriends.org/pt_br/index.html)
 
 Passo a passo:
@@ -16,6 +16,6 @@ Passo a passo:
 
 4- Após isso extrair a pasta com os arquivos para a pasta dentro do local de instalação do XAMPP chamada HTDOCS.
 
-5- Abra um navegador e digite localhost/index.php o usuario padrão é ian@gmail.com e a senha 123 (a senha no banco de dados esta em formado md5).
+5- Abra um navegador e digite localhost/index.php o usuário padrão é ian@gmail.com e a senha 123 (a senha no banco de dados esta em formado md5).
 
 após isso já é possível desbravar as funções (mesmo que um pouco limitadas) do meu projeto, espero que te seja útil (^-^)
