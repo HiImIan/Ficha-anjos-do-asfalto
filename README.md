@@ -1,7 +1,7 @@
 # Ficha-anjos-do-asfalto
 Meu projeto de tcc do curso técnico
 
-Esse é um projeto que usa html, css, php e o bando de dados mysql
+Esse é um projeto que usa html, css, php e o banco de dados mysql
 
 seu propósito é armazenar fichas de atendimento pré-hospitalar para um grupo de voluntários, suas funções incluem incluir, consultar, alterar e excluir fichas de atendimento e o mesmo vale para cadastro de voluntários, o login valida cadastros e as sessões são interrompidas quando se sai do login ou pagina em que estava, é bem simples (e um pouco instável) mas funcional, para um primeiro projeto, me sinto orgulhoso.
 para utilizar é necessário utilizar um bando de dados local, em meu caso recomendo o uso do Xampp (https://www.apachefriends.org/pt_br/index.html)
